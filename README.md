@@ -47,15 +47,15 @@ To forecast total daily sales using Facebook Prophet and uncover behavioral diff
 
 ###  All customers
 
-![All customers](assets/forecast_components.png)
+![All customers](assets/forecast.png)
 
 ###  Female customers
 
-![Female customers](assets/forecast_women.png)
+![Female customers](assets/women.png)
 
 ### Male customers
 
-![Male customers](assets/forecast_men.png)
+![Male customers](assets/men.png)
 
 ---
 
