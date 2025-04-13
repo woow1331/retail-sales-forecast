@@ -1,4 +1,4 @@
-#  Retail Sales Forecasting with Prophet
+#  🛒 Retail Sales Forecasting with Prophet
 
 > Time series forecasting project analyzing gender-based retail behavior using Facebook Prophet.
 
@@ -45,15 +45,15 @@ To forecast total daily sales using Facebook Prophet and uncover behavioral diff
 
 ## 📷 Visual Highlights of Sales
 
-### 📷 All customers
+###  All customers
 
 ![All customers](assets/forecast_components.png)
 
-### 📷 Female customers
+###  Female customers
 
 ![Female customers](assets/forecast_women.png)
 
-### 📷 Male customers
+### Male customers
 
 ![Male customers](assets/forecast_men.png)
 
@@ -107,19 +107,8 @@ To forecast total daily sales using Facebook Prophet and uncover behavioral diff
 |----------------|--------------|----------------------|--------------|
 | All Customers  |  Upward     | Saturday             | Thursday     |
 | Female         |  Up         | Tuesday, Saturday    | Thursday     |
-| Male           |  Downward   | Monday (mild), Sat   | Thursday–Fri |
+| Male           |  **Downward**   | Monday (mild), Sat   | Tuesday–Thursday |
 
----
-
-##  Project Structure
-
-```
-retail-sales-forecasting/
-├── assets/                   # Plots and charts (confusion matrix, components)
-├── retail_forecasting.ipynb # Main notebook
-├── README.md
-└── requirements.txt          # Optional: list of dependencies
-```
 
 ---
 
